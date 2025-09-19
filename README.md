@@ -8,11 +8,16 @@ This is a regression-based model, which has the characteristics of high accuracy
 
 # Model result
 
-Dataset | Model
+Dataset | Model | gflops | params | time | ION | IPN | cur
 --- | ---
-WFLW | google / baidu
-300W | google / baidu
-COFW | google / baidu
+WFLW |                       |   |   |   |          |          |[baidu](https://pan.baidu.com/s/1KhODUpYAOIW5OCkyj2SSUw){target="_blank"}  提取码: 1234
+WFLW |                       |   |   |   |          |          |baidu
+WFLW |                       |   |   |   |          |          |baidu
+WFLW |                       |   |   |   |          |          |baidu
+300W | MobileNetV3 + encoder |   |   |   | 0.029365 | 0.041209 |baidu
+300W | MobileNetV3 + encoder |   |   |   | 0.029365 | 0.041209 |baidu
+300W | MobileNetV3 + encoder |   |   |   | 0.029365 | 0.041209 |baidu
+300W | MobileNetV3 + encoder |   |   |   | 0.029365 | 0.041209 |baidu
 
 ![企业微信截图_17217047979248](https://github.com/user-attachments/assets/66a223a1-cb73-45b2-b084-f8188234db6b)
 
