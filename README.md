@@ -1,5 +1,5 @@
 # face_key_points
-Face key points, Transformer, Pytorch, 300W dataset
+Face landmarks, key points, CNN, Transformer, Pytorch, 300W\ WFLW dataset
 
 # Model introduction
 "The paper is currently being prepared."
