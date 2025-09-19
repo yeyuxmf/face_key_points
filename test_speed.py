@@ -1,8 +1,5 @@
-
-
-
+import time
 import torch
-
 
 
 
@@ -13,7 +10,7 @@ import torch
 if __name__ == '__main__':
 
 
-    import time
+   
     input = torch.rand((1, 3, 256,256)).cuda().float()
     model = torch.jit.load('./mobilenet0.029371085.pt').cuda().float().eval()
 
