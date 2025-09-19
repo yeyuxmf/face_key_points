@@ -14,8 +14,8 @@ WFLW |            0          |       |  0    |  0    |  0 |     0     |      0  
 WFLW |         0             |       | 0     |  0    |  0 |      0     |      0    | 0
 WFLW |         0             |       | 0    |  0    |  0 |     0      |     0     | 0
 WFLW |          0            |       | 0    |  0    |  0 |    0      |    0      | 0
-300W | MobileNetV3 + encoder | 220MB | 1.861 | 9.922 |  61.63 | 2.9365 | 4.1209 | [baidu](https://pan.baidu.com/s/1vYoox7kgyh9rY2RF4IUavg)
-300W | MobileNetV3 + encoder | 197MB | 0.866 | 4.866 |  212.9 | 2.9516 | 4.14420 | 0
+300W | MobileNetV3 + encoder | 220MB | 1.861 | 9.922 |  157.5 | 2.9365 | 4.1209 | [baidu](https://pan.baidu.com/s/1vYoox7kgyh9rY2RF4IUavg)
+300W | MobileNetV3 + encoder | 197MB | 0.866 | 4.866 |  212.9 | 2.9516 | 4.14420 | [baidu](https://pan.baidu.com/s/1PRLARuz9M7ABn--0AMC4Nw)
 300W | MobileNetV3 + encoder |       | 0     | 0  | 0  | 2.9365 | 4.1209 | 0
 300W | MobileNetV3 + encoder |       | 0    |  0 |  0 | 2.9365 | 4.1209 | 0
 
