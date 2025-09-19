@@ -6,7 +6,7 @@ Face key points, Transformer, Pytorch, 300W dataset
 This is a regression-based model, which has the characteristics of high accuracy, no missing points and low memory consumption compared with the best heat map model in terms of accuracy.
 
 
-# Model result
+# Model result # model The extraction code is: 1234
 Dataset | Model | gflops | params M | time | ION | IPN | cur
 --- | --- | --- | --- | --- | --- | --- | --- 
 WFLW |            0          |  0    |  0    |  0 |     0     |      0    | 0
