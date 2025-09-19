@@ -2,7 +2,7 @@
 Face key points, Transformer, Pytorch, 300W dataset
 
 # Model introduction
-
+"The paper is currently being prepared."
 This is a regression-based model, which has the characteristics of high accuracy, no missing points and low memory consumption compared with the best heat map model in terms of accuracy.
 
 
