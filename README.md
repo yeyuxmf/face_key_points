@@ -9,9 +9,9 @@ This is a regression-based model, which has the characteristics of high accuracy
 # Model result
 Dataset | Model
 --- | ---
-WFLW | google / baidu | 0
-300W | google / baidu | 0
-COFW | google / baidu | 0
+WFLW | google / baidu | asa
+300W | google / baidu | asa
+COFW | google / baidu | asa
 
 Dataset | Model | gflops | params M | time | ION | IPN | cur
 --- | ---
