@@ -7,14 +7,14 @@ This is a regression-based model, which has the characteristics of high accuracy
 
 
 # Model result # model The extraction code is: 1234
-batch size =1, GPU: RTX 3060  CPU: 12th Gen Intel Core(TM) i7-12700F 2.1GHz
-Dataset | Model | gflops | params M | time | ION | IPN | cur
+batch size =1, GPU: RTX 3060,  CPU: 12th Gen Intel Core(TM) i7-12700F 2.1GHz
+Dataset | Model | gflops | params M | time ms| ION | IPN | cur
 --- | --- | --- | --- | --- | --- | --- | --- 
 WFLW |            0          |  0    |  0    |  0 |     0     |      0    | 0
 WFLW |         0             | 0     |  0    |  0 |      0     |      0    | 0
 WFLW |         0             |  0    |  0    |  0 |     0      |     0     | 0
 WFLW |          0            |  0    |  0    |  0 |    0      |    0      | 0
-300W | MobileNetV3 + encoder | 1.861 | 9.922 |  0 | 0.029365 | 0.041209 | [baidu](https://pan.baidu.com/s/1FB2vsnImDjV09Hd1Vxs0ag){target="_blank"}
+300W | MobileNetV3 + encoder | 1.861 | 9.922 |  61.63 | 0.029365 | 0.041209 | [baidu](https://pan.baidu.com/s/1FB2vsnImDjV09Hd1Vxs0ag){target="_blank"}
 300W | MobileNetV3 + encoder | 0     |  0 |  0 | 0.029365 | 0.041209 | 0
 300W | MobileNetV3 + encoder | 0     | 0  | 0  | 0.029365 | 0.041209 | 0
 300W | MobileNetV3 + encoder |  0    |  0 |  0 | 0.029365 | 0.041209 | 0
