@@ -13,12 +13,12 @@ Dataset | Model | test gpu| gflops | params M | FPS  | ION | IPN | cur
 WFLW |            0          |       |  0    |  0    |  0 |     0     |      0    | 0
 WFLW |         0             |       | 0     |  0    |  0 |      0     |      0    | 0
 WFLW |         0             |       | 0    |  0    |  0 |     0      |     0     | 0
-WFLW |          0            |       | 0    |  0    |  0 |    0      |    0      | 0
+WFLW | MobileNetV3 + encoder | 170MB | 0.601|  3.442 |  274.1 |    0      |    0      | 0
 300W | MobileNetV3 + encoder | 220MB | 1.861 | 9.922 |  157.5 | 2.9365 | 4.1209 | [baidu](https://pan.baidu.com/s/1vYoox7kgyh9rY2RF4IUavg)
 300W | MobileNetV3 + encoder | 180MB | 0.774 | 3.897 |  249.8 | 2.9403 | 4.1255 | [baidu](https://pan.baidu.com/s/1qey_OruuDY17mo97n5Nhk)
 300W | MobileNetV3 + encoder | 170MB | 0.707 | 3.700 |  298.1 | 3.1742 | 4.4541 | [baidu](https://pan.baidu.com/s/1PakB77oi4r0LAHKuIsQluA)
-300W | MobileNetV3 + encoder |       | 0    |  0 |  0 | 2.9365 | 4.1209 | 0
-![企业微信截图_17217047979248](https://github.com/user-attachments/assets/66a223a1-cb73-45b2-b084-f8188234db6b)
+300W | MobileNetV3 + encoder | 170MB | 0.601|  3.442 |  274.1| 3.0328 | 4.2559 | [baidu](https://pan.baidu.com/s/1AGtCWIn2nU6xX7nOcwRUwQ)
+
 
 These are the model results for November 2023. I haven't conducted further experiments or written a paper yet, but I plan to do so by the end of this year.
 The source code will be fully open by then.
