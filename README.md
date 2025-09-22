@@ -5,6 +5,8 @@ Face landmarks, key points, CNN, Transformer, Pytorch, 300W\ WFLW dataset
 "The paper is currently being prepared." Ongoing updates  
 This is a regression-based model, which has the characteristics of high accuracy, no missing points and low memory consumption compared with the best heat map model in terms of accuracy.
 
+# DataSet
+Data preprocessing comes from: https://github.com/huangyangyu/ADNet
 
 # Model result # model The extraction code is: 1234
 batch size =1, GPU: RTX 3060,  CPU: 12th Gen Intel Core(TM) i7-12700F 2.1GHz
