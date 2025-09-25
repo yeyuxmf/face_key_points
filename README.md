@@ -26,13 +26,13 @@ WFLW | MobileNetV3 + encoder | 210MB | 0.603 | 3.442 | 284.3 | 4.4047 | 6.3332 |
 
 
 # Reference paper:
-1. Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929.
-2. He, K., Chen, X., Xie, S., Li, Y., Dollár, P., & Girshick, R. (2022). Masked autoencoders are scalable vision learners. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16000-16009).
-3.苏剑林. (Sep. 22, 2025). 《重新思考学习率与Batch Size（四）：EMA 》[Blog post]. Retrieved from https://kexue.fm/archives/11301.
-4.苏剑林. (May. 10, 2021). 《Transformer升级之路：4、二维位置的旋转式位置编码 》[Blog post]. Retrieved from https://kexue.fm/archives/8397.
-5. Dai C, Wang Y, Huang C, et al. A Cephalometric Landmark Regression Method Based on Dual-Encoder for High-Resolution X-Ray Image[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024: 93-109.
-6. He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778.
-7. Ultralytics. (2024). ultralytics/ultralytics: A unified deep learning framework for computer vision tasks (v8.2.0) [Computer software]. GitHub. https://github.com/ultralytics/ultralytics.
+1. Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929.   
+2. He, K., Chen, X., Xie, S., Li, Y., Dollár, P., & Girshick, R. (2022). Masked autoencoders are scalable vision learners. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16000-16009).   
+3.苏剑林. (Sep. 22, 2025). 《重新思考学习率与Batch Size（四）：EMA 》[Blog post]. Retrieved from https://kexue.fm/archives/11301.   
+4.苏剑林. (May. 10, 2021). 《Transformer升级之路：4、二维位置的旋转式位置编码 》[Blog post]. Retrieved from https://kexue.fm/archives/8397.   
+5. Dai C, Wang Y, Huang C, et al. A Cephalometric Landmark Regression Method Based on Dual-Encoder for High-Resolution X-Ray Image[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024: 93-109.   
+6. He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778.   
+7. Ultralytics. (2024). ultralytics/ultralytics: A unified deep learning framework for computer vision tasks (v8.2.0) [Computer software]. GitHub. https://github.com/ultralytics/ultralytics.    
 
 
 These are the model results for November 2023. I haven't conducted further experiments or written a paper yet, but I plan to do so by the end of this year.
