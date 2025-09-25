@@ -12,7 +12,7 @@ Data preprocessing comes from:
 
 # Model result # model The extraction code is: 1234
 batch size =1, GPU: RTX 3060,  CPU: 12th Gen Intel Core(TM) i7-12700F 2.1GHz
-Dataset | Model | test gpu| gflops G | params M | FPS  | ION | IPN | cur 
+Dataset | Model | test gpu| gflops G | params M | FPS  | ION | IPN | model weights 
 --- | --- | --- | --- | --- | --- | --- | --- | --- 
 WFLW | ResNet34    + encoder | 418MB | 11.803| 53.52 | 70.7  | 4.0065 | 5.6676 | [baidu](https://pan.baidu.com/s/1_eJ-h2f8McT4FLbvYOblZw)
 WFLW | ResNet18    + encoder | 269MB | 5.246 | 20.88 | 149.5 | 4.0513 | 5.7311 | [baidu](https://pan.baidu.com/s/1OXZunG99sPmfzkh_wWPdlg)
