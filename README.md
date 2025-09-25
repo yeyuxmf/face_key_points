@@ -1,5 +1,5 @@
 # face_key_points
-Face landmarks, key points, CNN, Transformer, Pytorch, 300W\ WFLW dataset
+Face landmarks, key points, CNN, Transformer, Pytorch, 300W\ WFLW dataset    
 This is a direct coordinate regression method that eliminates the post-processing required by the heatmap-based approach.
 # Model introduction
 "The paper is currently being prepared." Ongoing updates  
