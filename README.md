@@ -27,7 +27,9 @@ WFLW | MobileNetV3 + encoder | 210MB | 0.603 | 3.442 | 284.3 | 4.4047 | 6.3332 |
 300W | Comparative：  STAR   | 2400MB| 17.05 | 13.37 | 55.1 | 2.8704 | ~~~~~~ | [baidu](https://pan.baidu.com/s/1AGtCWIn2nU6xX7nOcwRUwQ)
 
 
-STAR：The STAR results are values obtained through testing using the authors' original code and model weight files.
+STAR：The STAR results were obtained through testing using the authors' original code and model weight files.
+It currently achieves the best results on the 300W and WFLW face datasets, belonging to the heatmap-based landmark model.
+
 
 
 # Reference paper:
