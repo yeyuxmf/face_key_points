@@ -24,7 +24,7 @@ WFLW | MobileNetV3 + encoder | 210MB | 0.603 | 3.442 | 284.3 | 4.4047 | 6.3332 |
 300W | MobileNetV3 + encoder | 180MB | 0.774 | 3.897 | 249.8 | 2.9403 | 4.1255 | [baidu](https://pan.baidu.com/s/1qey_OruuDY17mo97n5Nhk)
 300W | MobileNetV3 + encoder | 170MB | 0.707 | 3.700 | 298.1 | 3.1742 | 4.4541 | [baidu](https://pan.baidu.com/s/1PakB77oi4r0LAHKuIsQluA)
 300W | MobileNetV3 + encoder | 170MB | 0.601 | 3.442 | 286.1 | 3.0328 | 4.2559 | [baidu](https://pan.baidu.com/s/1AGtCWIn2nU6xX7nOcwRUwQ)
-300W | Comparative：  STAR   | 2400MB| 17.05 | 13.37 | 55.1 | 2.8704 | ~~~~~~ | [baidu](https://pan.baidu.com/s/1AGtCWIn2nU6xX7nOcwRUwQ)
+300W | Comparative：  STAR   | 2400MB| 17.05 | 13.37 | 55.1  | 2.8704 | ~~~~~~ | ~~~~~
 
 
 STAR：The STAR results were obtained through testing using the authors' original code and model weight files.
