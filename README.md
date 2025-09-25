@@ -14,7 +14,8 @@ Data preprocessing comes from:
 batch size =1, GPU: RTX 3060,  CPU: 12th Gen Intel Core(TM) i7-12700F 2.1GHz
 Dataset | Model | test gpu| gflops G | params M | FPS  | ION | IPN | cur 
 --- | --- | --- | --- | --- | --- | --- | --- | --- 
-WFLW | ResNet34 + encoder    | 418MB | 11.803| 53.52 | 70.7  | 4.0065 | 5.6676 | [baidu](https://pan.baidu.com/s/1_eJ-h2f8McT4FLbvYOblZw)
+WFLW | ResNet34    + encoder | 418MB | 11.803| 53.52 | 70.7  | 4.0065 | 5.6676 | [baidu](https://pan.baidu.com/s/1_eJ-h2f8McT4FLbvYOblZw)
+WFLW | ResNet18    + encoder | 269MB | 5.246 | 20.88 | 149.5 | 4.0513 | 5.7311 | [baidu](https://pan.baidu.com/s/1OXZunG99sPmfzkh_wWPdlg)
 WFLW | MobileNetV3 + encoder | 195MB | 1.187 | 6.063 | 198.5 | 4.1837 | 5.9193 | [baidu](https://pan.baidu.com/s/1sRGdWvxnCBm6a_ETL9o2vA)
 WFLW | MobileNetV3 + encoder | 194MB | 0.720 | 3.908 | 236.7 | 4.2798 | 6.0575 | [baidu](https://pan.baidu.com/s/1cxT5pok8B3p14fVLbmYCLw)
 WFLW | MobileNetV3 + encoder | 210MB | 0.603 | 3.442 | 284.3 | 4.4047 | 6.3332 | [baidu](https://pan.baidu.com/s/12eBRv9EnsFYGSWK06BAxqw)
