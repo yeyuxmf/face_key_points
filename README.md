@@ -1,6 +1,6 @@
 # face_key_points
 Face landmarks, key points, CNN, Transformer, Pytorch, 300W\ WFLW dataset
-
+This is a direct coordinate regression method that eliminates the post-processing required by the heatmap-based approach.
 # Model introduction
 "The paper is currently being prepared." Ongoing updates  
 This is a regression-based model, which has the characteristics of high accuracy, no missing points and low memory consumption compared with the best heat map model in terms of accuracy.
