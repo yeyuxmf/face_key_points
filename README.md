@@ -11,7 +11,7 @@ Data preprocessing comes from:
 2. https://github.com/ZhenglinZhou/STAR
 
 # Model result # model The extraction code is: 1234
-batch size =1, GPU: RTX 3060,  CPU: 12th Gen Intel Core(TM) i7-12700F 2.1GHz
+pytorch2.6 batch size =1, GPU: RTX 3060,  CPU: 12th Gen Intel Core(TM) i7-12700F 2.1GHz
 Dataset | Model | test gpu| gflops G | params M | FPS  | ION | IPN | model weights 
 --- | --- | --- | --- | --- | --- | --- | --- | --- 
 WFLW | ResNet34    + encoder | 418MB | 11.80 | 53.52 | 70.7  | 4.0065 | 5.6676 | [baidu](https://pan.baidu.com/s/1_eJ-h2f8McT4FLbvYOblZw)
